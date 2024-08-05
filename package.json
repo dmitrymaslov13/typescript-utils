@@ -1,0 +1,26 @@
+{
+  "name": "typescript-utils",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrymaslov13/demo-references.git"
+  },
+  "keywords": [
+    "typescript-utils",
+    "typescrit"
+  ],
+  "author": {
+    "name": "Dmitry Maslov",
+    "email": "1dmitriqm@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrymaslov13/demo-references/issues"
+  },
+  "homepage": "https://github.com/dmitrymaslov13/demo-references#readme",
+  "description": ""
+}
